@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616350499111",
+    "project_id": "safetrack-db8e7",
+    "storage_bucket": "safetrack-db8e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616350499111:android:6465c3c1066f1d50aca902",
+        "android_client_info": {
+          "package_name": "com.catalina.safetrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx10Ujgo6385lS5no1qDytmtP9xZdeeOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
